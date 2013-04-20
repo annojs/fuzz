@@ -1,0 +1,43 @@
+{
+    "name": "annofuzz",
+    "description": "Fuzzer for JavaScript",
+    "author": "Juho Vepsalainen <bebraw@gmail.com>",
+    "version": "0.1.0",
+
+    "dependencies": {
+        "tap-render": "0.1.7"
+    },
+
+    "devDependencies": {
+        "annotate": "0.6.7",
+        "annois": "0.2.0"
+    },
+
+    "scripts": {
+        "test": "node ./lib/tests.js"
+    },
+
+    "main": "./lib/annofuzz.js",
+
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:bebraw/annofuzz.git"
+    },
+
+    "directories": {
+        "lib": "./lib"
+    },
+
+    "homepage": "https://github.com/bebraw/annofuzz",
+
+    "bugs": {
+        "url": "https://github.com/bebraw/annofuzz/issues"
+    },
+
+    "keywords": ["testing", "utilities", "fuzzing"],
+
+    "licenses": [{
+        "type": "MIT",
+        "url": "https://github.com/bebraw/annofuzz/blob/master/LICENSE"
+    }]
+}
