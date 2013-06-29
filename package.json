@@ -20,27 +20,27 @@
         "test": "node ./lib/tests.js"
     },
 
-    "main": "./lib/annofuzz.js",
+    "main": "./lib/fuzz.js",
 
     "repository": {
         "type": "git",
-        "url": "https://github.com/bebraw/annofuzz.git"
+        "url": "git@github.com:annojs/fuzz.git"
     },
 
     "directories": {
         "lib": "./lib"
     },
 
-    "homepage": "https://github.com/bebraw/annofuzz",
+    "homepage": "https://github.com/annojs/fuzz",
 
     "bugs": {
-        "url": "https://github.com/bebraw/annofuzz/issues"
+        "url": "https://github.com/annojs/fuzz/issues"
     },
 
     "keywords": ["testing", "utilities", "fuzzing"],
 
     "licenses": [{
         "type": "MIT",
-        "url": "https://github.com/bebraw/annofuzz/blob/master/LICENSE"
+        "url": "https://github.com/annojs/fuzz/blob/master/LICENSE"
     }]
 }
