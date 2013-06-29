@@ -23,8 +23,8 @@
     "main": "./lib/annofuzz.js",
 
     "repository": {
-        "type": "git",
-        "url": "git@github.com:bebraw/annofuzz.git"
+        "type": "https",
+        "url": "https://github.com/bebraw/annofuzz.git"
     },
 
     "directories": {
