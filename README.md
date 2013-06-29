@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/annojs/fuzz.png)](http://travis-ci.org/annojs/fuzz)
 # annofuzz - Fuzzer for JavaScript
 
 `annofuzz` provides a way to fuzz you functions. It has been designed to work with [annotate](https://github.com/bebraw/annotate) and [annois](https://github.com/bebraw/annois) although it works as long as you implement the protocol.
