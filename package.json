@@ -5,12 +5,12 @@
   "version": "0.2.0",
   "dependencies": {
     "tap-render": "0.1.7",
-    "annois": "0.2.0",
+    "annois": "0.3.0",
     "funkit": "0.7.7"
   },
   "devDependencies": {
-    "annotate": "0.6.7",
-    "annogenerate": "0.6.1",
+    "annotate": "0.7.0",
+    "annogenerate": "0.6.2",
     "tap-parser": "0.0.2"
   },
   "scripts": {
