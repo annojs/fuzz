@@ -25,6 +25,7 @@
   "directories": {
     "lib": "./lib"
   },
+  "lib": "./lib",
   "homepage": "https://github.com/annojs/fuzz",
   "bugs": {
     "url": "https://github.com/annojs/fuzz/issues"
