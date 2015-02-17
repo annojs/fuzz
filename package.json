@@ -4,15 +4,15 @@
   "author": "Juho Vepsalainen <bebraw@gmail.com>",
   "version": "0.4.6",
   "dependencies": {
-    "annotate": "0.9.0",
-    "tap-render": "0.1.7",
-    "annois": "0.3.0",
-    "funkit": "0.7.8",
-    "annomath": "0.2.0"
+    "annotate": "^0.9.1",
+    "tap-render": "^0.1.7",
+    "annois": "^0.3.2",
+    "funkit": "^0.7.8",
+    "annomath": "^0.4.1"
   },
   "devDependencies": {
-    "annogenerate": "0.6.2",
-    "tap-parser": "0.4.1"
+    "annogenerate": "^0.8.1",
+    "tap-parser": "^0.7.0"
   },
   "scripts": {
     "test": "node ./lib/tests.js"
