@@ -2,7 +2,7 @@
   "name": "annofuzz",
   "description": "Fuzzer for JavaScript",
   "author": "Juho Vepsalainen <bebraw@gmail.com>",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "dependencies": {
     "annotate": "^0.9.1",
     "tap-render": "^0.1.7",
